@@ -1,4 +1,3 @@
 hello world
 before revert ops commit
-to be reverted versions
 after revert

@@ -20,5 +20,4 @@ print get_lastmonth_ds('20170301')
 print get_lastmonth_ds('20170101')
 print get_lastmonth_ds('20170102')
 #before revert ci
-#to be reverted
 #after revert
